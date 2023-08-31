@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  },
+  "scripts": {
+    "build": "postcss styles.css -o dist/input.css"
+    }
+}
